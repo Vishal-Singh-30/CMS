@@ -1,0 +1,21 @@
+.course-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
+
+.course-item button {
+  padding: 5px 10px;
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.course-item button:hover {
+  background-color: #c82333;
+}

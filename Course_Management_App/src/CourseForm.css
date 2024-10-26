@@ -1,0 +1,28 @@
+.course-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .course-form input,
+  .course-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .course-form button {
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .course-form button:hover {
+    background-color: #218838;
+  }
+  
